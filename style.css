@@ -92,7 +92,7 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('./aset/desain tanpa judul.png');
+    background-image: url('aset/Desain tanpa judul.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center ; 
