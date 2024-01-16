@@ -1,0 +1,2 @@
+# AmoslikeGt.io
+web olhsop
